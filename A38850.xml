@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact account of the Duke of Schombergs happy voyage from Highlake, to his safe arrival at Carrick-Fergus with the particulars of the engagement with three French men of war in that bay.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38850</idno>
+            <idno type="STC">Wing E3567</idno>
+            <idno type="STC">ESTC R10298</idno>
+            <idno type="EEBO-CITATION">13289937</idno>
+            <idno type="OCLC">ocm 13289937</idno>
+            <idno type="VID">98830</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38850)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98830)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 453:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact account of the Duke of Schombergs happy voyage from Highlake, to his safe arrival at Carrick-Fergus with the particulars of the engagement with three French men of war in that bay.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Brown,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Schomberg, Friedrich Hermann Schomberg, --  Duke of, 1615-1690.</term>
+               <term>Ireland --  History --  1688-1689 --  Sources.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:98830:1" rendition="simple:additions"/>
+            <head>An Exact ACCOUNT OF THE <hi>Duke of Schombergs</hi> Happy Voyage from <hi>Highlake,</hi> to his Safe Arrival at <hi>Carrick-Fergus.</hi> With the Particulars of the Engagement with Three French Men of War in that Bay.</head>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>Licenſed, <hi>Auguſt</hi> 21. 1689.</p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>THE News of General <hi>Schomberg</hi>'s ſafe Arrival in <hi>Ireland,</hi> being a thing of ſuch Publick Concern and Joy, it is thought a piece of Service to the Publick, to give a faithful Narrative of his Happy Voyage from <hi>Highlake</hi> to <hi>Ireland,</hi> and the Circumſtances that attended the ſame; which are as followeth:</p>
+            <p>His Excellency having here prepar'd all things for this Expedition, and Shipped his Men on Board, ſent away the Artillery-Ships, with ſome Draught-Horſes before, to the <hi>Iſle of Man,</hi> intending to Rendevouz there. He himſelf Embarqued on the 11th Inſtant, and as ſoon as he came on Board, he called all the chief Officers together, and held a Coun<g ref="char:EOLhyphen"/>cil about the fitteſt place of his Landing; which being reſolved on, and on <hi>Munday</hi> Morning, the 12th inſtant, the Wind blowing fair, at <hi>N. E.</hi> by Twelve a Clock they weighed Anchor, and ſtood out to Sea: The Weather was very fair; ſo that towards Night it was concerted, whether they ſhould go to their Rendevouz at the <hi>Iſle of Man;</hi> but con<g ref="char:EOLhyphen"/>ſidering afterwards the uncertainty of meeting with ſo fair an opportu<g ref="char:EOLhyphen"/>nity; and being alſo loath to delay any longer the Succouring that di<g ref="char:EOLhyphen"/>ſtreſſed Country, it was reſolved to continue their Courſe directly, and afterwards to ſend for their Artillery-Ships. The Wind continued ſtill ſo fair, as that on <hi>Tueſday</hi> Morning they ſpied the Coaſt of <hi>Ireland,</hi> and about Ten they came up to the Iſlands of <hi>Laune</hi> and <hi>Copland,</hi> two little Iſlands at the Mouth of <hi>Carrick-Fergus</hi> Bay.</p>
+            <p>Here they lay by for two Hours, till their Spy Boats brought them word, That they ſaw Three French Men of War in the Bay: Upon which Intelligence our Men of War immediately prepar'd to attack them, and leaving their Convoy, went up to meet them; which they did, near the Caſtle of <hi>Carrick-Fergus,</hi> and there engaged them ſo warmly, as that in Four Hours time they overcame them, taking Two, and ſinking the Third; as alſo ſome little Boats which tended on them. Theſe were thoſe Ships which took the Two Scotch Frigats, who defended them<g ref="char:EOLhyphen"/>ſelves ſo bravely. While this Action laſted, the Iriſh were ſo allarum'd
+<pb n="2" facs="tcp:98830:2"/>at the ſight of ſuch a Fleet, as that they immediately ſet Fire to the Town, and blow'd up part of the Caſtle: But the General ſo timely prevented the fury of the Flames, by ſome Boats full of Men which he landed, as that part of the Town was preſerved: Alſo, at the ſame time he ſent up ſeveral Boats arm'd to <hi>Belfaſt,</hi> (which lies at the bottom of the Bay) and thereby ſecured that place from their Fury: For at their approach the Iriſh quitted the place, and fled in great confuſion and diſ<g ref="char:EOLhyphen"/>order into the Country. However at Night they perceived ſeveral Fires in all parts of the Country, which whether they were Beacons to give Notice of the Landing, or Houſes and Towns on Fire, was not then known.</p>
+            <p>The General himſelf landed at <hi>Carrick Fergus,</hi> which is a large Town, Seven Miles from <hi>Belfaſt;</hi> they are both in the County of <hi>Antrim:</hi> The latter is Sixty Miles from <hi>London-Derry,</hi> and the like diſtance from <hi>Enniskilling,</hi> lying in a Triangular Figure, which does take in all the North, and ſecure that Province from the Iriſh. So that when the Forces are joined, 'tis ſuppoſed they will march directly to <hi>Dublin,</hi> which is about Seventy Miles from the place of Landing. We ſhall now every day expect to here of Action; unleſs the natural Baſhfulneſs of the Iriſh before the Face of an Enemy, prevent us, longer than we could wiſh.</p>
+            <p>On <hi>Munday</hi> there Sailed out of <hi>Cheſter,</hi> an Hundred Sail of Ships, laded with Men, and Ammunition, who intend to joyn the General.</p>
+            <p>I have here encloſed a Liſt of thoſe Regiments that went with him; and alſo of thoſe which were to follow him; the reſt will Sail this Week.</p>
+            <list>
+               <head>A LIST of the Regiments that Embarqued with Duke <hi>Schomberg</hi> Being all Foot.</head>
+               <item>Earl of <hi>Kingſton</hi>'s. <hi>Engliſh.</hi>
+               </item>
+               <item>Earl of <hi>Droghedah</hi>'s. <hi>Engliſh.</hi>
+               </item>
+               <item>Lord <hi>Lisburne</hi>'s. <hi>Engliſh.</hi>
+               </item>
+               <item>Sir <hi>Hen. Ingoldsby</hi>'s. <hi>Engliſh.</hi>
+               </item>
+               <item>Sir <hi>Thomas Earl</hi>'s. <hi>Engliſh.</hi>
+               </item>
+               <item>Coll. <hi>Beamont</hi>'s. <hi>Engliſh.</hi>
+               </item>
+               <item>Coll. <hi>Wharton</hi>'s. <hi>Engliſh.</hi>
+               </item>
+               <item>Coll. <hi>Herbert</hi>'s. <hi>Engliſh.</hi>
+               </item>
+               <item>Coll. <hi>Calimoſe</hi>'s <hi>French.</hi>
+               </item>
+               <item>Coll. <hi>De la Meloniere</hi>'s <hi>French.</hi>
+               </item>
+               <item>Coll. <hi>Du Cambon</hi>'s <hi>French.</hi>
+               </item>
+               <item>2 Companies of <hi>Cadets. French.</hi>
+               </item>
+               <item>Coll. <hi>Carolſton</hi>'s. <hi>Dutch.</hi>
+               </item>
+               <item>A Battalion of the Guards. <hi>Dutch.</hi>
+               </item>
+            </list>
+            <list>
+               <head>A LIST of the Regiments for the Second Reinforcement; moſt of which Sail'd laſt <hi>Munday.</hi>
+               </head>
+               <item>
+                  <list>
+                     <head>HORSE.</head>
+                     <item>Lord <hi>Delameer's.</hi>
+                     </item>
+                     <item>Lord <hi>Hewit</hi>'s.</item>
+                     <item>Lord <hi>Cavendiſh</hi>'s.</item>
+                     <item>Coll. <hi>Villiers</hi>'s.</item>
+                     <item>Coll. <hi>Coy</hi>'s.</item>
+                     <item>
+                        <hi>French</hi> Regiment.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>FOOT.</head>
+                     <item>Duke of <hi>Norfolk</hi>'s.</item>
+                     <item>Duke of <hi>Bolton</hi>'s.</item>
+                     <item>Earl of <hi>Meath</hi>'s.</item>
+                     <item>Earl of <hi>Roſcommon</hi>'s.</item>
+                     <item>Lord <hi>Lovelace</hi>'s.</item>
+                     <item>Sir <hi>Edward Deering</hi>'s.</item>
+                     <item>Sir <hi>George St. George</hi>'s.</item>
+                     <item>Sir <hi>Thomas Gower</hi>'s.</item>
+                     <item>Coll. <hi>Hamilton</hi>'s.</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> R. Brown. MDCLXXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
